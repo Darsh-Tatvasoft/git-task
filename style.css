@@ -7,7 +7,6 @@
   scroll-behavior: smooth;
 }
 
-/* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
   width: 10px;
 }
